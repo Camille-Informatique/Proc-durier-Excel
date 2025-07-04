@@ -19,7 +19,7 @@ Ce projet s'adresse aux débutants ou utilisateurs occasionnels d'Excel qui souh
 - 🔹 PDF
 
 ## 👩‍💻 Réalisé par
-**Camille**, étudiante en soutien informatique, engagée à rendre la technologie accessible aux usagers.
+**Camille**, étudiante en soutien informatique, engagée à rendre la technologie accessible aux usagers.  
 📫 Contact : [cam1211@hotmail.fr](mailto:cam1211@hotmail.fr)
 
 ---
